@@ -5,6 +5,6 @@ Authors: Nikos Goulias, 282
 
 Last modified: 18/11/2011
 
-Description: It's an Xcas program that we insert a polynomial (such as 2k^3 + 3k^2 + k) and the output is a type 		     of sums that give us the equivalent result. We use 3 intermediate functions in specific 		   		     difference_delta, factorial_power and stirling. Each function gives us useful data in order to achieve 
+Description: It's an Xcas program that we insert a polynomial (such as 2k^3 + 3k^2 + k) and the output is a type 		     of sums that give us the corresponding result. We use 3 intermediate functions in specific 	  		     difference_delta, factorial_power and stirling. Each function gives us useful data in order to achieve 
 	     our goal and they are somehow corresponding to the Mathematica's functions for the same use.
 
